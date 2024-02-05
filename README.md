@@ -1,4 +1,4 @@
-# DSFUM
+# DSFUM - Arduino/Robotics related course
 Proiectul propus vizează crearea unei mașinuțe robot echipate cu o cameră, controlată și 
 monitorizată prin intermediul unei aplicații mobile. Scopul acestui proiect este de a oferi o 
 soluție interactivă și distractivă, dar și educativă, prin explorarea tehnologiilor moderne de 
